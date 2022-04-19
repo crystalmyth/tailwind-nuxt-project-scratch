@@ -1,4 +1,13 @@
 {
+  "IncludeFooter": {
+    "description": "Auto imported from components/include/Footer.vue"
+  },
+  "IncludeNavbar": {
+    "description": "Auto imported from components/include/Navbar.vue"
+  },
+  "IncludeSidebar": {
+    "description": "Auto imported from components/include/Sidebar.vue"
+  },
   "HomeCTASection": {
     "description": "Auto imported from components/home/CTASection.vue"
   },
@@ -10,14 +19,5 @@
   },
   "HomeTestimonialSection": {
     "description": "Auto imported from components/home/TestimonialSection.vue"
-  },
-  "IncludeFooter": {
-    "description": "Auto imported from components/include/Footer.vue"
-  },
-  "IncludeNavbar": {
-    "description": "Auto imported from components/include/Navbar.vue"
-  },
-  "IncludeSidebar": {
-    "description": "Auto imported from components/include/Sidebar.vue"
   }
 }

@@ -743,13 +743,13 @@ __webpack_require__.r(__webpack_exports__);
 // NAMESPACE OBJECT: ./.nuxt/components/index.js
 var components_namespaceObject = {};
 __webpack_require__.r(components_namespaceObject);
+__webpack_require__.d(components_namespaceObject, "IncludeFooter", function() { return IncludeFooter; });
+__webpack_require__.d(components_namespaceObject, "IncludeNavbar", function() { return IncludeNavbar; });
+__webpack_require__.d(components_namespaceObject, "IncludeSidebar", function() { return IncludeSidebar; });
 __webpack_require__.d(components_namespaceObject, "HomeCTASection", function() { return HomeCTASection; });
 __webpack_require__.d(components_namespaceObject, "HomeFeatureSection", function() { return HomeFeatureSection; });
 __webpack_require__.d(components_namespaceObject, "HomeHeroSection", function() { return HomeHeroSection; });
 __webpack_require__.d(components_namespaceObject, "HomeTestimonialSection", function() { return HomeTestimonialSection; });
-__webpack_require__.d(components_namespaceObject, "IncludeFooter", function() { return IncludeFooter; });
-__webpack_require__.d(components_namespaceObject, "IncludeNavbar", function() { return IncludeNavbar; });
-__webpack_require__.d(components_namespaceObject, "IncludeSidebar", function() { return IncludeSidebar; });
 
 // EXTERNAL MODULE: external "vue"
 var external_vue_ = __webpack_require__(0);
@@ -2277,13 +2277,13 @@ const layouts = {
   }
 });
 // CONCATENATED MODULE: ./.nuxt/components/index.js
+const IncludeFooter = () => __webpack_require__.e(/* import() | components/include-footer */ 5).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));
+const IncludeNavbar = () => __webpack_require__.e(/* import() | components/include-navbar */ 6).then(__webpack_require__.bind(null, 31)).then(c => wrapFunctional(c.default || c));
+const IncludeSidebar = () => __webpack_require__.e(/* import() | components/include-sidebar */ 7).then(__webpack_require__.bind(null, 30)).then(c => wrapFunctional(c.default || c));
 const HomeCTASection = () => __webpack_require__.e(/* import() | components/home-c-t-a-section */ 1).then(__webpack_require__.bind(null, 35)).then(c => wrapFunctional(c.default || c));
 const HomeFeatureSection = () => __webpack_require__.e(/* import() | components/home-feature-section */ 2).then(__webpack_require__.bind(null, 33)).then(c => wrapFunctional(c.default || c));
 const HomeHeroSection = () => __webpack_require__.e(/* import() | components/home-hero-section */ 3).then(__webpack_require__.bind(null, 32)).then(c => wrapFunctional(c.default || c));
-const HomeTestimonialSection = () => __webpack_require__.e(/* import() | components/home-testimonial-section */ 4).then(__webpack_require__.bind(null, 34)).then(c => wrapFunctional(c.default || c));
-const IncludeFooter = () => __webpack_require__.e(/* import() | components/include-footer */ 5).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));
-const IncludeNavbar = () => __webpack_require__.e(/* import() | components/include-navbar */ 6).then(__webpack_require__.bind(null, 31)).then(c => wrapFunctional(c.default || c));
-const IncludeSidebar = () => __webpack_require__.e(/* import() | components/include-sidebar */ 7).then(__webpack_require__.bind(null, 30)).then(c => wrapFunctional(c.default || c)); // nuxt/nuxt.js#8607
+const HomeTestimonialSection = () => __webpack_require__.e(/* import() | components/home-testimonial-section */ 4).then(__webpack_require__.bind(null, 34)).then(c => wrapFunctional(c.default || c)); // nuxt/nuxt.js#8607
 
 function wrapFunctional(options) {
   if (!options || !options.functional) {
