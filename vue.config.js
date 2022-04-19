@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'tailwind-nuxt-project-scratch',
+  publicPath: 'tailwind-nuxt-project-scratch/dist/',
 }
