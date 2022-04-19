@@ -1,5 +1,8 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  router: {
+    base: '/tailwind-nuxt-project-scratch/'
+  },
   head: {
     title: 'portfolio',
     meta: [{
