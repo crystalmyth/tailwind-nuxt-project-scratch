@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'tailwind-project-from-scratch',
+  publicPath: 'tailwind-nuxt-project-scratch',
 }
