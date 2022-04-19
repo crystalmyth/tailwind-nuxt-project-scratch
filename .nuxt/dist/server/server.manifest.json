@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/home-c-t-a-section.js": "components/home-c-t-a-section.js",
+    "components/home-feature-section.js": "components/home-feature-section.js",
+    "components/home-hero-section.js": "components/home-hero-section.js",
+    "components/home-testimonial-section.js": "components/home-testimonial-section.js",
+    "components/include-footer.js": "components/include-footer.js",
+    "components/include-navbar.js": "components/include-navbar.js",
+    "components/include-sidebar.js": "components/include-sidebar.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/home-c-t-a-section.js": "components/home-c-t-a-section.js.map",
+    "components/home-feature-section.js": "components/home-feature-section.js.map",
+    "components/home-hero-section.js": "components/home-hero-section.js.map",
+    "components/home-testimonial-section.js": "components/home-testimonial-section.js.map",
+    "components/include-footer.js": "components/include-footer.js.map",
+    "components/include-navbar.js": "components/include-navbar.js.map",
+    "components/include-sidebar.js": "components/include-sidebar.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
