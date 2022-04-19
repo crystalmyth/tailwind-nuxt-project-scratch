@@ -2729,15 +2729,15 @@ async function createApp(ssrContext, config = {}) {
       }, {
         "hid": "shortcut-icon",
         "rel": "shortcut icon",
-        "href": "\u002F_nuxt\u002Ficons\u002Ficon_64x64.e3e9fb.png"
+        "href": "\u002Ftailwind-nuxt-project-scratch\u002F_nuxt\u002Ficons\u002Ficon_64x64.e3e9fb.png"
       }, {
         "hid": "apple-touch-icon",
         "rel": "apple-touch-icon",
-        "href": "\u002F_nuxt\u002Ficons\u002Ficon_512x512.e3e9fb.png",
+        "href": "\u002Ftailwind-nuxt-project-scratch\u002F_nuxt\u002Ficons\u002Ficon_512x512.e3e9fb.png",
         "sizes": "512x512"
       }, {
         "rel": "manifest",
-        "href": "\u002F_nuxt\u002Fmanifest.1a111017.json",
+        "href": "\u002Ftailwind-nuxt-project-scratch\u002F_nuxt\u002Fmanifest.286b727a.json",
         "hid": "manifest"
       }],
       "style": [],
